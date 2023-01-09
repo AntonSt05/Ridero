@@ -16,7 +16,7 @@ const FormComponent = (props) => {
           text='white'
         >
           <div className="head">
-            <h5>{bookForEditing ? 'Редактирование книги...' : 'Добавьте новую книгу...'}</h5>
+            <h5>{bookForEditing ? 'Редактирование test...' : 'Добавьте новую test...'}</h5>
           </div>
           <Form>
             <Form.Control
